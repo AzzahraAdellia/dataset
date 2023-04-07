@@ -1,6 +1,6 @@
 Id,SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm,Species
 1,50,65,70,95,Mawar
-2,77,46,13,42,Melati
-3,23,21,43,54,Anggrek
-4,98,87,76,65,Edelweis
-5,99,21,65,44,Tulip
+29,77,46,13,42,Melati
+32,23,21,43,54,Anggrek
+45,98,87,76,65,Edelweis
+51,99,21,65,44,Tulip
